@@ -1,0 +1,6 @@
+{
+  "name": "Chevar Sexi - Ishchilar Hisobi",
+  "description": "Tikuvchilik sexi uchun ishchilar hisobi, davomat va smena narxlari boshqaruvi tizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
